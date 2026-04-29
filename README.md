@@ -2,7 +2,7 @@
 
 **💡 Python-разработчик, интересуюсь Backend.**
 
-*## 🔧 Мои Hard Skills:*
+* 🔧 Мои Hard Skills:*
 - *Python,алгоритмы*
   `*Telegram, pyrogram*
 - *PyGame*
